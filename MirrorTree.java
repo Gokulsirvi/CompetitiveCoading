@@ -53,5 +53,5 @@ public class MirrorTree {
 
 **Output:**
 ```
-Is Mirror (Symmetric): true
-Is Mirror (Symmetric): false
+// Is Mirror (Symmetric): true
+// Is Mirror (Symmetric): false
